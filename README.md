@@ -7,7 +7,7 @@
  - Once In-Game: Run WacheLoader.exe 
 
 ## Not Working?
-- `bin\Wache\maps.json` has a folder id that changes once in blue moon. make sure that is correct.
+- `Wache\maps.json` has a folder id that changes once in blue moon. make sure that is correct.
 - ID Example: `00000000000000000000000038000000`
 
 ### Updated MAPS 6/24/2024
